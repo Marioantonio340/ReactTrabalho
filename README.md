@@ -8,5 +8,5 @@ Desenvolver um tela utilizando o retorno das informações utilizando REST e a b
 <div align="center">
     <img src="./github/alimentos.png" />
 </div>
-Json utilizado na REST<a href="https://github.com/Marioantonio340/ReactTrabalho/tree/Atividade-conceitos-API-REST--React-Native/db.json/github"></a>
+Json utilizado na <a href="https://github.com/Marioantonio340/ReactTrabalho/tree/Atividade-conceitos-API-REST--React-Native/db.json/github">REST API</a>
 
