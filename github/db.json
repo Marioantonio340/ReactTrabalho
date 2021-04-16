@@ -1,0 +1,24 @@
+{
+    "items":[
+        {
+            "id":"1",
+            "description":"Arroz",
+            "category":"Não Perecível",
+            "image":"https://img.itdg.com.br/tdg/images/recipes/000/000/770/323683/323683_original.jpg?mode=crop&width=710&height=400"
+        },
+        {
+            "id":"2",
+            "description":"Farinha",
+            "category":"Não Perecível",
+            "image":"https://img.itdg.com.br/tdg/images/blog/uploads/2018/10/tipos-de-farinha-de-trigo-veja.jpg?w=1200"
+        },
+        {
+            "id":"3",
+            "description":"Alface",
+            "category":"Perecível",
+            "image":"https://static.cdnlive.com.br/uploads/653/produto/16070904768142_zoom.jpeg"
+
+        }
+      
+    ]
+}
