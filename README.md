@@ -9,7 +9,7 @@ Utilizar o conceito do useState, useEffect e useRef. Em anexo na imagem explica√
 </p>
 <p float ="left"  >
     <h3>Modelo e Resultado:</h3>
-    <img src="./github/prototipo.jpg" width="100"/>
+    <img src="./github/prototipo5.jpg" width="100"/>
     <img src="./github/iphone.png" width="100"/>
 </p>
 
