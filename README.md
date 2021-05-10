@@ -1,12 +1,16 @@
-<h1 align="center"> Atividade conceitos API REST- React Native </h1>
+<h1 align="center">Atividade React Hooks
+
+ </h1>
 <h2> Descrição </h2>
-Desenvolver um tela utilizando o retorno das informações utilizando REST e a biblioteca do Axios. Em anexo protótipo.
-<div align="center">
-    <img src="./github/prototipo.jpg"/>
-</div>
-<h2> Resultado </h2>
-<div align="center">
-    <img src="./github/alimentos.png" />
-</div>
-Json utilizado na <a href="https://github.com/Marioantonio340/ReactTrabalho/blob/Atividade-conceitos-API-REST--React-Native/github/db.json">REST API</a>
+Utilizar o conceito do useState, useEffect e useRef. Em anexo na imagem explicação sobre o que deve ser desenvolvido.
+<p float = "left">
+
+
+</p>
+<p float ="left"  >
+    <h3>Modelo e Resultado:</h3>
+    <img src="./github/prototipo.jpg" width="100"/>
+    <img src="./github/iphone.png" width="100"/>
+</p>
+
 
